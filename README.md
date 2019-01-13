@@ -1,2 +1,2 @@
 # invie-github
-Primer repositorio 
+Primer repositorio by @luismedina
